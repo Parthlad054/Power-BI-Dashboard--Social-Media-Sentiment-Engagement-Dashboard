@@ -178,8 +178,8 @@ The dashboard supports the following dynamic slicers:
 ## 👤 Author
 
 **Your Name**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+📧 parthlad4125@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ladparthmahendrabhai/) | [GitHub](https://github.com/Parthlad054)
 
 ---
 
